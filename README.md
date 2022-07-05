@@ -2,6 +2,10 @@
 
 <hr>
 
+<em>projects with <strong>React-Native</strong> - Projetos com <strong>React-Native</strong></em>
+
+<hr>
+
 # 💫 About Me:
 🔭 I’m currently working on projects :D<br>🌱 I’m currently learning JavaScript, Flutter, React-Native and Others :/
 
